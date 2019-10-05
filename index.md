@@ -1,6 +1,12 @@
 ## Welcome to my homepage
 
+I'm a PhD student at Shanghai Astronomical Observatory and University of Chinese Academy of Sciences, supervised by Dr. Junzhi Wang and Dr. Qizhou Zhang.
+I also worked as an SMA pre-doctoral fellow at the Harvard-Smithsonian Center for Astrophysics, supervised by Dr. Qizhou Zhang, in 2017-2019. I will get my PhD degree at the end of 2019.
+
+My research interests is focused on molecular cloud, star and cluster formation, Filament and turbulence. During the period of my PhD, I have used radio, millimeter and sub-millimeter data from, e.g., ALMA, SMA, NOEMA, JVLA, IRAM 30m, JCMT, SMT, KP 12m, CSO, PMO 13.7m, KVN 21m and Tianma 65m, to study the molecular clouds from large scale > 1 pc down to small scale <0.1 pc.
+
 You can use the [editor on GitHub](https://github.com/ShanghuoLi/shanghuoli.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
 
 ### Markdown
 
@@ -8,10 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-I'm a PhD student at Shanghai Astronomical Observatory and University of Chinese Academy of Sciences, supervised by Dr. Junzhi Wang and Dr. Qizhou Zhang.
-I also worked as an SMA pre-doctoral fellow at the Harvard-Smithsonian Center for Astrophysics, supervised by Dr. Qizhou Zhang, in 2017-2019. I will get my PhD degree at the end of 2019.
 
-My research interests is focused on molecular cloud, star and cluster formation, Filament and turbulence. During the period of my PhD, I have used radio, millimeter and sub-millimeter data from, e.g., ALMA, SMA, NOEMA, JVLA, IRAM 30m, JCMT, SMT, KP 12m, CSO, PMO 13.7m, KVN 21m and Tianma 65m, to study the molecular clouds from large scale > 1 pc down to small scale <0.1 pc.
 
 # Header 1
 ## Header 2
