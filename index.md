@@ -10,7 +10,6 @@ My research interests is focused on molecular cloud, star and cluster formation,
 
 Pre-doctora fellowship, Harvard–Smithsonian Center for Astrophysics, 2017-2019
 
-%Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShanghuoLi/shanghuoli.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Education
 
